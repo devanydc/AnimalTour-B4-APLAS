@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textTitle">#FCF08F</color>
+    <color name="invert_color">#ACACAC</color>
+    <color name="white">#fefefe</color>
+    <color name="lightBackground">#C8FFEE</color>
+    <color name="bgcolor">#E4ED8F</color>
+    <array name="animal_color">
+        <item>#FFEB3B</item>
+        <item>#FAC2C6</item>
+        <item>#A2FA92</item>
+        <item>#7491FF</item>
+        <item>#F1B1FF</item>
+    </array>
+</resources>
